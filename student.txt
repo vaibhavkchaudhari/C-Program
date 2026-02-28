@@ -1,0 +1,3 @@
+Abstraction- 1)Is the process of showing only important detail and hiding internal implimantation to the user.
+2)It can be done by interface and abstract class.
+3)Abstraction solve the problem at design level.
